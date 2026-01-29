@@ -17,7 +17,7 @@ const App = () => {
 
       <>
        <Card  title="Sahil Yadav" someobj={myobj}/>
-       <Card  title="Rao Sahab" someobj={myobj}/>
+       
        </>
     );
 };
